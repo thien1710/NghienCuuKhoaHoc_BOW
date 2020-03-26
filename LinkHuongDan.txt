@@ -1,0 +1,3 @@
+https://medium.com/greyatom/learning-pos-tagging-chunking-in-nlp-85f7f811a8cb4
+Text Processing:
+https://towardsdatascience.com/machine-learning-text-processing-1d5a2d638958
